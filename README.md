@@ -73,13 +73,13 @@ tailwind.config.js
 
 ## 🚦 How to Run (Frontend Only)
 
-```bash
+```
 npm install
 npm run dev
 This will start the frontend server on:
 
 arduino
-Copy code
+
 http://localhost:5173/
 ⚠️ IMPORTANT (PLEASE READ)
 This project is part of a full-stack system.
@@ -104,8 +104,7 @@ None of these will work unless the backend server is running.
 ❗ Why?
 Because this frontend communicates with the backend via REST APIs:
 
-bash
-Copy code
+
 GET /products
 POST /login
 POST /register
