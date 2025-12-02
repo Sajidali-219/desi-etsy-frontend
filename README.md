@@ -40,6 +40,7 @@ The backend (Node.js + Express + MongoDB) is maintained in a separate repository
 
 ## 📁 Folder Structure
 
+```
 src/
 │── components/
 │── context/
@@ -49,13 +50,15 @@ src/
 │── utils/
 │── App.jsx
 │── main.jsx
+
 public/
+│── images/
+
 tailwind.config.js
+```
 
-yaml
-Copy code
 
----
+
 
 ## ⚙️ Tech Stack (Frontend)
 
